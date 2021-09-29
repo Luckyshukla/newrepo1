@@ -1,0 +1,7 @@
+[GIN-debug] GET    /getuser                  --> main.go/cantroller.ShowUserData (3 handlers)
+[GIN-debug] PATCH  /update/:id               --> main.go/cantroller.Updatedata (3 handlers)
+[GIN-debug] POST   /post                     --> main.go/cantroller.Createdata (3 handlers)
+[GIN-debug] DELETE /delete/:id               --> main.go/cantroller.DeleteData (3 handlers)
+[GIN-debug] GET    /Querystring_parameters/:first_name --> main.go/cantroller.Querystring_parameters (3 handlers)
+[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default
+[GIN-debug] Listening and serving HTTP on :8080
